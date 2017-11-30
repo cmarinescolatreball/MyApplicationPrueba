@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="action_settings">Settings</string>
-    <string name="idWorld">Hello World Second Update!</string>
+    <string name="action_settings">Settings</string>        
+    <string name="idWorld">Hello World Third Update!</string>
+    <string name="idWorld">Hello World Fourth Update!</string>
+
 </resources>
